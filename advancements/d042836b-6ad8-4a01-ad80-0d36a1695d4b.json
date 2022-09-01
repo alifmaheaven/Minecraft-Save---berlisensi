@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2022-08-31 21:20:45 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-25 20:56:10 +0700"
@@ -182,6 +188,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2022-08-28 10:14:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2022-09-01 19:49:25 +0700"
     },
     "done": true
   },
@@ -437,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-08-31 21:57:07 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2022-08-25 21:59:10 +0700"
@@ -452,6 +470,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2022-08-28 10:14:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2022-09-01 19:35:23 +0700"
     },
     "done": true
   },
@@ -647,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-09-01 18:35:16 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2022-08-27 00:54:43 +0700"
@@ -758,6 +788,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-08-27 17:46:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2022-09-01 21:15:16 +0700"
     },
     "done": true
   },
@@ -902,6 +938,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2022-08-29 09:04:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2022-09-01 19:25:41 +0700"
     },
     "done": true
   },
@@ -1121,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2022-08-31 21:51:08 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-25 20:56:10 +0700"
@@ -1148,6 +1196,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-28 09:20:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2022-08-31 21:57:07 +0700"
     },
     "done": true
   },
@@ -1362,6 +1416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2022-09-01 21:15:16 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2022-08-25 20:43:37 +0700"
@@ -1377,6 +1437,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2022-08-28 12:11:39 +0700",
+      "minecraft:nether_wastes": "2022-08-31 22:03:25 +0700",
       "minecraft:warped_forest": "2022-08-28 12:13:18 +0700"
     },
     "done": false
@@ -1657,6 +1718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2022-09-01 17:48:22 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-08-25 22:10:29 +0700"
@@ -1759,9 +1826,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2022-09-01 21:15:16 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-08-25 20:43:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2022-08-31 21:51:08 +0700"
     },
     "done": true
   },
@@ -2041,6 +2120,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2022-08-25 22:10:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-08-31 21:57:07 +0700"
     },
     "done": true
   },
@@ -2410,6 +2495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2022-08-31 21:57:07 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2022-08-28 23:04:20 +0700"
@@ -2452,6 +2543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2022-08-31 21:57:07 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-08-25 21:59:10 +0700"
@@ -2461,6 +2558,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-26 10:26:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-08-31 21:57:07 +0700"
     },
     "done": true
   },
@@ -2554,9 +2657,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2022-08-31 21:20:45 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-08-28 10:14:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2022-08-31 21:57:07 +0700"
     },
     "done": true
   },
@@ -2836,6 +2951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2022-08-31 21:57:07 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2022-08-27 15:23:41 +0700"
@@ -2911,6 +3032,18 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-27 00:18:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2022-09-01 17:48:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2022-08-31 21:57:07 +0700"
     },
     "done": true
   },
