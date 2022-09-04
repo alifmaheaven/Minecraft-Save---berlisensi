@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2022-09-04 19:13:31 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2022-08-28 09:24:43 +0700"
@@ -959,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2022-09-04 19:13:31 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-26 10:26:18 +0700"
@@ -1251,6 +1263,7 @@
       "minecraft:dripstone_caves": "2022-08-25 21:13:57 +0700",
       "minecraft:grove": "2022-08-25 20:38:17 +0700",
       "minecraft:forest": "2022-08-25 20:29:19 +0700",
+      "minecraft:lush_caves": "2022-09-04 18:55:06 +0700",
       "minecraft:jungle": "2022-08-26 18:44:51 +0700",
       "minecraft:old_growth_birch_forest": "2022-08-26 19:13:28 +0700",
       "minecraft:deep_dark": "2022-08-28 23:09:29 +0700",
@@ -1395,6 +1408,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2022-08-27 22:11:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2022-09-04 18:23:02 +0700"
     },
     "done": true
   },
@@ -1625,6 +1644,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-08-27 00:26:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-09-04 18:23:33 +0700"
     },
     "done": true
   },
@@ -1871,6 +1896,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2022-08-25 21:02:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2022-09-04 18:24:11 +0700"
     },
     "done": true
   },
@@ -2363,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2022-09-04 18:23:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-26 10:26:18 +0700"
@@ -2663,6 +2700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2022-09-04 18:23:58 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-08-25 21:33:20 +0700"
@@ -2732,6 +2775,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2022-08-26 19:07:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2022-09-04 18:22:43 +0700"
     },
     "done": true
   },
