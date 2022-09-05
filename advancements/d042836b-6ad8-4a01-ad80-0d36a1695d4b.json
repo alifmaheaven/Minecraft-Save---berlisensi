@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2022-09-05 21:15:16 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-08-25 20:43:38 +0700"
@@ -2191,6 +2197,7 @@
     "criteria": {
       "cooked_porkchop": "2022-09-05 14:55:36 +0700",
       "cooked_mutton": "2022-09-05 19:51:48 +0700",
+      "chorus_fruit": "2022-09-05 21:17:33 +0700",
       "suspicious_stew": "2022-08-27 19:27:21 +0700"
     },
     "done": false
