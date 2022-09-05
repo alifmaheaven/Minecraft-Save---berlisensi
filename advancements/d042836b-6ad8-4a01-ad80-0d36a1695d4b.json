@@ -743,6 +743,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2022-09-05 20:18:05 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2022-08-27 00:26:04 +0700"
@@ -771,6 +777,7 @@
       "minecraft:creeper": "2022-09-05 18:38:08 +0700",
       "minecraft:zombified_piglin": "2022-09-05 16:53:54 +0700",
       "minecraft:wither_skeleton": "2022-09-05 16:53:31 +0700",
+      "minecraft:ender_dragon": "2022-09-05 20:18:05 +0700",
       "minecraft:piglin": "2022-09-05 15:01:18 +0700",
       "minecraft:enderman": "2022-09-05 14:55:45 +0700",
       "minecraft:silverfish": "2022-09-05 19:52:29 +0700",
@@ -1045,6 +1052,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2022-09-05 17:01:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-09-05 20:02:44 +0700"
     },
     "done": true
   },
@@ -2029,6 +2042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-09-05 20:03:03 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-28 09:20:07 +0700"
@@ -2976,6 +2995,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-09-05 20:03:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-09-05 20:03:03 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-08-25 21:59:10 +0700"
@@ -3432,6 +3463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-09-05 20:03:03 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-08-25 20:43:37 +0700"
@@ -3489,6 +3526,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-27 00:18:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-09-05 20:02:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-09-05 20:03:03 +0700"
     },
     "done": true
   },
