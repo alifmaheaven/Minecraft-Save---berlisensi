@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2022-09-10 14:54:03 +0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2022-08-25 22:04:31 +0700"
@@ -825,6 +831,7 @@
       "minecraft:creeper": "2022-09-05 18:38:08 +0700",
       "minecraft:phantom": "2022-09-10 11:41:56 +0700",
       "minecraft:zombified_piglin": "2022-09-05 16:53:54 +0700",
+      "minecraft:witch": "2022-09-10 12:03:25 +0700",
       "minecraft:wither_skeleton": "2022-09-05 16:53:31 +0700",
       "minecraft:ender_dragon": "2022-09-05 20:18:05 +0700",
       "minecraft:shulker": "2022-09-05 20:42:24 +0700",
@@ -1150,6 +1157,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2022-08-28 10:14:44 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2022-09-10 12:01:05 +0700"
     },
     "done": true
   },
@@ -2378,6 +2391,7 @@
       "cooked_mutton": "2022-09-05 19:51:48 +0700",
       "chorus_fruit": "2022-09-05 21:17:33 +0700",
       "suspicious_stew": "2022-08-27 19:27:21 +0700",
+      "rotten_flesh": "2022-09-10 12:11:42 +0700",
       "cooked_chicken": "2022-09-10 11:42:18 +0700"
     },
     "done": false
@@ -2844,6 +2858,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2022-08-27 00:17:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2022-09-10 12:01:05 +0700"
     },
     "done": true
   },
@@ -3516,6 +3536,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-08-25 20:29:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2022-09-10 12:01:05 +0700"
     },
     "done": true
   },
