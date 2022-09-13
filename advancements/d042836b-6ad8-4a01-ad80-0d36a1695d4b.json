@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2022-09-13 19:04:54 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2022-09-05 18:47:24 +0700"
@@ -2073,6 +2079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2022-09-13 18:37:16 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2022-09-09 17:39:38 +0700"
@@ -2641,7 +2653,8 @@
       "minecraft:pig": "2022-08-27 11:28:21 +0700",
       "minecraft:sheep": "2022-08-26 20:25:45 +0700",
       "minecraft:cow": "2022-08-26 20:25:49 +0700",
-      "minecraft:chicken": "2022-08-26 15:35:43 +0700"
+      "minecraft:chicken": "2022-08-26 15:35:43 +0700",
+      "minecraft:bee": "2022-09-13 18:58:40 +0700"
     },
     "done": false
   },
@@ -3842,6 +3855,18 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2022-09-05 22:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2022-09-13 13:45:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2022-09-13 19:04:54 +0700"
     },
     "done": true
   },
