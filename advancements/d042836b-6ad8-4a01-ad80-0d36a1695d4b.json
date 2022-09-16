@@ -1232,6 +1232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2022-09-16 16:25:08 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2022-09-05 16:26:14 +0700"
@@ -2438,6 +2444,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-09-05 14:55:36 +0700",
+      "honey_bottle": "2022-09-16 18:52:11 +0700",
       "cooked_mutton": "2022-09-05 19:51:48 +0700",
       "chorus_fruit": "2022-09-05 21:17:33 +0700",
       "suspicious_stew": "2022-08-27 19:27:21 +0700",
